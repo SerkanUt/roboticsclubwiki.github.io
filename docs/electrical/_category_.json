@@ -1,0 +1,8 @@
+{
+  "label": "Electrical",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains all electrical related content."
+  }
+}

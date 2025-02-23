@@ -1,0 +1,8 @@
+{
+  "label": "Projects",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains all project and competitive project related content."
+  }
+}
